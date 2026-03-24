@@ -1,6 +1,5 @@
-# -Global-Supply-Chain-Risk-Map
-Global supply chain risk analysis using Python, Plotly, and Tableau
 # 🌍 Global Supply Chain Risk Map
+Global supply chain risk analysis using Python, Plotly, and Tableau
 
 ## 📌 Overview
 Analyzed 180,000+ supply chain records to identify high-risk countries using delivery delays and lead time variance.
